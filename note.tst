@@ -83,6 +83,22 @@ bound morpheme( es, ed,...)
 
 find some POS tags 
 
+parsing has three types , Chunking is in the Shallow parsing
+
+
+Stemming Alogrithm
+Porter Stemmer (english)
+Snowball Stemmer (multilang)
+Lancaster Stemmer
+
+Stemming is fast ,
+rule-based,produce invalid words
+
+lemmatization is slow, 
+uses linguistic information,
+valid dictionary form, 
+computationally involved
+
 
 
 
