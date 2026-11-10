@@ -109,6 +109,13 @@ summy->importance sentence & summa->importance words/phrases
 summarize 10 lines into 1 line called "Extraction"
 
 
+Markov Models
+Weather today->Weather tommorrow( predict next state based on the previous state)
+
+
+
+
+
 
 
 
