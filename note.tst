@@ -101,6 +101,17 @@ computationally involved
 
 
 
+Day2#
+summy->summarization and summa->keyword extration
+summy->importance sentence & summa->importance words/phrases
+
+
+summarize 10 lines into 1 line called "Extraction"
+
+
+
+
+
 
 
 
