@@ -113,6 +113,18 @@ Markov Models
 Weather today->Weather tommorrow( predict next state based on the previous state)
 
 
+Day3#
+BoW looks at individual words but ignore word order.0
+ dont' look the "not good" and assume "negative", it looks like "not" and "good"
+
+Unigram, Bigram, Trigram, 4-gram, 
+This is not good= This is , is not , not good
+
+supervised                      unsuperviesd
+Uses label data                 unlabelled data
+predicts classes                
+eg.svm
+
 
 
 
